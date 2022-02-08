@@ -1,4 +1,6 @@
 # UnBuilding
+Puzzlescript game that was made in 48 hours for the Mystery Game Jam 👻 .
+
 You are an un-construction worker. 
 
 Tools may not work as you may expect. 
@@ -9,7 +11,7 @@ Do you think you can get to the end?
 
 
 
-This game was made in 48 hours for the Mystery Game Jam 👻 .
+
 
 
 
